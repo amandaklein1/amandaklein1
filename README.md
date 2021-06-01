@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm Amanda, a full stack software engineer currently located in New York City. Take a look at the projects I have been working on and feel free to contact me if you have any questions or would like to chat!
+
+
+
+
 <!--
 **amandaklein1/amandaklein1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
