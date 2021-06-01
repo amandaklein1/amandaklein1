@@ -36,6 +36,7 @@ I'm Amanda Klein a Full Stack Software Engineer currently located in New York Ci
 ![](https://img.shields.io/badge/Tools-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=27A133)
 ![](https://img.shields.io/badge/tools-Express-informational?style=flat&logo=express&logoColor=white&color=27A133)
 ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=mongodb&logoColor=white&color=fcba03)
+![](https://img.shields.io/badge/Database-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=fcba03)
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white&color=fcba03)
 ![](https://img.shields.io/badge/Tools-Axios-informational?style=flat&logo=axios&logoColor=white&color=27A133)
 
