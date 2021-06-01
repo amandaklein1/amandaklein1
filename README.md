@@ -1,7 +1,10 @@
 ## Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
+![](https://static1.squarespace.com/static/56b99a1d2eeb8102639df38d/t/5f6e6a732b388d20da92e8bb/1620815912947/)
+
 I'm Amanda Klein a Full Stack Software Engineer currently located in New York City. I Spend most of time coding outstanding projects or learning new technologies. Take a look at the projects I have been working on and feel free to contact me if you have any questions or would like to chat!
 
+---
 
 <!-- LinkedIn Contact -->
 <a href="https://www.linkedin.com/in/amandasaraklein/" target="_blank">
