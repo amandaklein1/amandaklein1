@@ -1,6 +1,6 @@
 ## Hi there <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
-![](https://positiveroutines.com/wp-content/uploads/2018/08/multi-color-filing-system-organization-concept.jpg)
+![](https://www.thespruce.com/thmb/8JKRcn7j1hAL3qb-vHO9QulrJxg=/600x450/filters:no_upscale():max_bytes(150000):strip_icc()/Stocksy_txp56161a75PS0300_Small_1931470-0d28e6ced8c74b1ca7b815b08ea7e9ad.jpg)
 
 I'm Amanda Klein a Full Stack Software Engineer currently located in New York City. I Spend most of time coding outstanding projects or learning new technologies. Take a look at the projects I have been working on and feel free to contact me if you have any questions or would like to chat!
 
